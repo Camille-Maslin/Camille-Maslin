@@ -25,7 +25,7 @@
 
 <p align="left">I'm Camille Maslin from France.<br><br>
 - 🔭 I’m currently studying for a BUT Informatique at IUT de Dijon (3rd year).<br>
-- 🎓 Focused on Application Development, Design, and Validation.<br>
+- 🎓 Focused on Application Development.<br>
 - 🌱 Currently learning AI development, TensorFlow, and advanced Python programming.<br>
 - 🚀 Passionate about artificial intelligence, data science, and web development.<br>
 
