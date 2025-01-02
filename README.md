@@ -57,9 +57,11 @@
 
 ###
 
-- 🧠 **Tumor Detection Model** - Developed a CNN model in Python for brain MRI classification with 93% accuracy.
-- 🖼 **Image Viewer** - Built a Python app to visualize multispectral images (Lab ImViA).
-- 🌐 **Portfolio Website** - Designed a responsive portfolio website using HTML, CSS, and JavaScript.
+- 🛡️ **SecureCard-AI** - Developed a credit card fraud detection system with 99.97% accuracy using machine learning.
+- 🧠 **BrainScan-AI** - Created a CNN model for brain tumor detection achieving 94% accuracy across multiple tumor types.
+- 🤖 **NeuroDraw-NN** - Implemented a neural network from scratch for real-time digit recognition with interactive visualization.
+- 🎨 **SimulFCImage** - Built a professional multispectral image processing application for ImViA Laboratory.
+- 🌐 **Portfolio Website** - Designed a modern, bilingual portfolio website with dynamic theming and interactive features.
 
 ###
 
