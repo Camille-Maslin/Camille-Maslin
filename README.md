@@ -71,6 +71,7 @@
 
 <p align="left">
 - 💌 Email: <a href="mailto:camillemaslin@gmail.com">camillemaslin@gmail.com</a><br>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/camille-maslin/">www.linkedin.com/in/camille-maslin</a><br>
 - 🌐 Portfolio: <a href="https://camille-maslin.github.io/Portfolio/">camille-maslin.github.io/Portfolio</a><br>
 </p>
 
